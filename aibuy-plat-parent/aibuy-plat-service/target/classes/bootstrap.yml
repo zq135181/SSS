@@ -1,0 +1,16 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:6001/eureka
+  instance:
+    prefer-ip-address: true
+spring:
+  cloud:
+    config:
+      name: application-service #github上面名称
+      profile: dev #环境 java -jar -D xxx jar
+      label: master #分支
+      discovery:
+        enabled: true #从eureka上面找配置服务
+        service-id: spring-cloud-config-server #指定服务名找服务
+      #uri: http://127.0.0.1:1299 #配置服务器 单机配置

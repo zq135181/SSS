@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aibuy-basic-codegenerator" />
+        <module name="aibuy-basic-util" />
+        <module name="aibuy-config-server" />
+        <module name="aibuy-eureka" />
+        <module name="aibuy-plat-interface" />
+        <module name="aibuy-plat-service" />
+        <module name="aibuy-product-interface" />
+        <module name="aibuy-product-service" />
+        <module name="aibuy-zuul" />
+        <module name="common-interface" />
+        <module name="common-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aibuy-basic-codegenerator" target="8" />
+      <module name="aibuy-basic-parent" target="8" />
+      <module name="aibuy-basic-util" target="8" />
+      <module name="aibuy-common-parent" target="8" />
+      <module name="aibuy-config-server" target="8" />
+      <module name="aibuy-eureka" target="8" />
+      <module name="aibuy-parent" target="8" />
+      <module name="aibuy-plat-interface" target="8" />
+      <module name="aibuy-plat-parent" target="8" />
+      <module name="aibuy-plat-service" target="8" />
+      <module name="aibuy-product-interface" target="8" />
+      <module name="aibuy-product-parent" target="8" />
+      <module name="aibuy-product-service" target="8" />
+      <module name="aibuy-zuul" target="8" />
+      <module name="common-interface" target="8" />
+      <module name="common-service" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

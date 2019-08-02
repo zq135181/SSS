@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aibuy-basic-parent/aibuy-basic-codegenerator/aibuy-basic-codegenerator.iml" filepath="$PROJECT_DIR$/aibuy-basic-parent/aibuy-basic-codegenerator/aibuy-basic-codegenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aibuy-basic-parent/aibuy-basic-parent.iml" filepath="$PROJECT_DIR$/aibuy-basic-parent/aibuy-basic-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aibuy-basic-parent/aibuy-basic-util/aibuy-basic-util.iml" filepath="$PROJECT_DIR$/aibuy-basic-parent/aibuy-basic-util/aibuy-basic-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aibuy-common-parent/aibuy-common-parent.iml" filepath="$PROJECT_DIR$/aibuy-common-parent/aibuy-common-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aibuy-config-server/aibuy-config-server.iml" filepath="$PROJECT_DIR$/aibuy-config-server/aibuy-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aibuy-eureka/aibuy-eureka.iml" filepath="$PROJECT_DIR$/aibuy-eureka/aibuy-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aibuy-parent.iml" filepath="$PROJECT_DIR$/aibuy-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aibuy-plat-parent/aibuy-plat-interface/aibuy-plat-interface.iml" filepath="$PROJECT_DIR$/aibuy-plat-parent/aibuy-plat-interface/aibuy-plat-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aibuy-plat-parent/aibuy-plat-parent.iml" filepath="$PROJECT_DIR$/aibuy-plat-parent/aibuy-plat-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aibuy-plat-parent/aibuy-plat-service/aibuy-plat-service.iml" filepath="$PROJECT_DIR$/aibuy-plat-parent/aibuy-plat-service/aibuy-plat-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aibuy-product-parent/aibuy-product-interface/aibuy-product-interface.iml" filepath="$PROJECT_DIR$/aibuy-product-parent/aibuy-product-interface/aibuy-product-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aibuy-product-parent/aibuy-product-parent.iml" filepath="$PROJECT_DIR$/aibuy-product-parent/aibuy-product-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aibuy-product-parent/aibuy-product-service/aibuy-product-service.iml" filepath="$PROJECT_DIR$/aibuy-product-parent/aibuy-product-service/aibuy-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aibuy-zuul/aibuy-zuul.iml" filepath="$PROJECT_DIR$/aibuy-zuul/aibuy-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aibuy-common-parent/common-interface/common-interface.iml" filepath="$PROJECT_DIR$/aibuy-common-parent/common-interface/common-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aibuy-common-parent/common-service/common-service.iml" filepath="$PROJECT_DIR$/aibuy-common-parent/common-service/common-service.iml" />
+    </modules>
+  </component>
+</project>
